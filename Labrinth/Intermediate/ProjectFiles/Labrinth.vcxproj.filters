@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Labrinth.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{08587F2C-58CB-404A-8568-049A605811E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labrinth.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LabrinthEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EA14CB4E-54A0-4818-B1EC-5BFE2A1695C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Labrinth">
+      <UniqueIdentifier>{7A272DAC-BC7B-4D05-AE83-3EC5F1FB19C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labrinth\Labrinth.Build.cs">
+      <Filter>Source\Labrinth</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Labrinth\Labrinth.cpp">
+      <Filter>Source\Labrinth</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labrinth\Labrinth.h">
+      <Filter>Source\Labrinth</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labrinth\LabrinthCharacter.cpp">
+      <Filter>Source\Labrinth</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labrinth\LabrinthCharacter.h">
+      <Filter>Source\Labrinth</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labrinth\LabrinthGameMode.cpp">
+      <Filter>Source\Labrinth</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labrinth\LabrinthGameMode.h">
+      <Filter>Source\Labrinth</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labrinth\LabrinthHUD.cpp">
+      <Filter>Source\Labrinth</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labrinth\LabrinthHUD.h">
+      <Filter>Source\Labrinth</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labrinth\LabrinthProjectile.cpp">
+      <Filter>Source\Labrinth</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labrinth\LabrinthProjectile.h">
+      <Filter>Source\Labrinth</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

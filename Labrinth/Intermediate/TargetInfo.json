@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Labrinth",
+			"Path": "E:\\GameDev\\UnrealProjects\\Labrinth\\Source\\Labrinth.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LabrinthEditor",
+			"Path": "E:\\GameDev\\UnrealProjects\\Labrinth\\Source\\LabrinthEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

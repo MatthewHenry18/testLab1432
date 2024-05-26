@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\GameDev\\UnrealProjects\\Labrinth\\Source\\Labrinth\\Labrinth.Build.cs",
+		"E:\\GameDev\\UnrealProjects\\Labrinth\\Source\\Labrinth.Target.cs",
+		"E:\\GameDev\\UnrealProjects\\Labrinth\\Source\\LabrinthEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
